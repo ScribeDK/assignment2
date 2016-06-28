@@ -6,6 +6,7 @@ body {margin: 0;
 	overflow: auto;}
 	
 .MainBox{background-image: url("../images/dark_embroidery.png");
+	width: 960px;
 	background-repeat: repeat;
 	padding-top: 50px;
 	overflow: auto;
@@ -16,9 +17,11 @@ body {margin: 0;
 	max-height: 73px;}
 	
 .UpperSection{min-height: 73px;
+	width: 960px;
 	border-bottom: solid #888888 1px;}
 	
 .LowerSection{border-top: solid #888888 1px;
+	width: 960px;
 	height: 73xp;}
 
 .SectionBorder {border: solid #888888 1px;
