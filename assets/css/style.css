@@ -49,9 +49,7 @@ body {margin: 0;
 	text-align: center;}
 	
 #PictureAbout{float: left;
-	margin: 10px;
-	width:300; 
-	height:300;}
+	margin: 10px;}
 
 .ContactInfo{color: #777777;
 	font-size: 18px;
@@ -84,25 +82,21 @@ body {margin: 0;
 	margin: 10px;
 	font-size: 24px;
 	background-color: #888888;
-	width: 195px;
+	width: 190px;
 	margin-top: 170px;
 	position: absolute;
 	z-index: 2;}
 
-.TextSection-R{margin-left: 253px;}
+.TextSection-R{margin-left: 243px;}
 	
 .PictureLinks{float: left;
-	margin: 10px;
-	height: 50px;
-	width: 50px;}
+	margin: 10px;}
 	
 .PictureSection{overflow: auto;
 	margin-bottom: 5px;}
 
 .PicturePortfolio{float:left;
 	position: relative;
-	width:200; 
-	height:200;
 	margin: 10px;
 	z-index: 1;}
 	
