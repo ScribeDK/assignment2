@@ -1,0 +1,113 @@
+body {margin: 0;
+	padding: 0;
+	height: 100%;}
+
+#Size{width: 960px;
+	overflow: auto;}
+	
+.MainBox{background-image: url("../images/dark_embroidery.png");
+	background-repeat: repeat;
+	padding-top: 50px;
+	overflow: auto;
+	min-height: 400px;
+	padding-bottom: 50px;}
+
+.SubSection{min-height: 20px;
+	max-height: 73px;}
+	
+.UpperSection{min-height: 73px;
+	border-bottom: solid #888888 1px;}
+	
+.LowerSection{border-top: solid #888888 1px;
+	height: 73xp;}
+
+.SectionBorder {border: solid #888888 1px;
+	background-color: black;
+	overflow: auto;}
+
+#SubmitBtn{font-family:'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin: 10px;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: silver;
+	color: black;}
+	
+#SubmitBtn:active{background-color: gold;}
+	  
+.MyName {margin-top: 0px;
+	background-color: #777777;
+	height: 73px;
+	padding-top: 15px;
+	text-align: center;}
+
+#Copyright{margin-top: 10%;
+	text-align: center;}
+	
+#PictureAbout{float: left;
+	margin: 10px;
+	width:300; 
+	height:300;}
+
+.ContactInfo{color: #777777;
+	font-size: 18px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;}
+	
+.InputBox{width: 565px;}
+
+.Links{float: right;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-right: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	color: gold;
+	border-right: solid #cccccc 1px;}
+	
+.Links:hover{color: yellow;}
+	
+.Links-R{margin-right: 30px;
+	border-right: none;}
+
+.TextMain{color: #777777;
+	font-size: 18px;
+	margin-top: 20px;}
+
+.TextSection{font-family:'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	margin: 10px;
+	font-size: 24px;
+	background-color: #888888;
+	width: 200px;
+	margin-top: 170px;
+	position: absolute;
+	z-index: 2;}
+
+.TextSection-R{margin-left: 253px;}
+	
+.PictureLinks{float: left;
+	margin: 10px;
+	height: 50px;
+	width: 50px;}
+	
+.PictureSection{overflow: auto;
+	margin-bottom: 5px;}
+
+.PicturePortfolio{float:left;
+	position: relative;
+	width:200; 
+	height:200;
+	margin: 10px;
+	z-index: 1;}
+	
+.PicturePortfolio-R{margin-left: 33px;}
+	
+.Title{padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	border-bottom: solid #777777;}
+	
+.Title-1{text-align: left;}
