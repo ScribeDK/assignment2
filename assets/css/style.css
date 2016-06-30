@@ -1,9 +1,9 @@
 body {margin: 0;
 	padding: 0;
 	height: 100%;}
-
+	
 #Size{width: 960px;
-	overflow: auto;}
+	overflow: hidden;}
 	
 .MainBox{background-image: url("../images/dark_embroidery.png");
 	width: 960px;
@@ -29,7 +29,7 @@ body {margin: 0;
 	overflow: auto;}
 
 #SubmitBtn{font-family:'Georgia', Times, Times New Roman, serif;
-	font-size: 20px;
+	font-size: 18px;
 	margin: 10px;
 	padding: 5px;
 	padding-left: 10px;
@@ -45,7 +45,7 @@ body {margin: 0;
 	padding-top: 15px;
 	text-align: center;}
 
-#Copyright{margin-top: 10%;
+#Copyright{margin-top: 5%;
 	text-align: center;}
 	
 #PictureAbout{float: left;
